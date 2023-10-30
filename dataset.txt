@@ -1,0 +1,1122 @@
+English:What is your name?
+Hinglish:Tumhara naam kya hai?
+
+English:Where are you going?
+Hinglish:Tum kahan ja rahe ho?
+
+English:I love to eat pizza.
+Hinglish:Mujhe pizza khane ka bahut shauk hai.
+
+English:Can you help me?
+Hinglish:Kya tum meri madad kar sakte ho?
+
+English:This is a beautiful place.
+Hinglish:Yeh ek khoobsurat jagah hai.
+
+English:How are you feeling today?
+Hinglish:Aaj tum kaise mehsoos kar rahe ho?
+
+English:What time is it?
+Hinglish:Kitne baje hain?
+
+English:I am learning to code.
+Hinglish:Main code likhna seekh raha hoon.
+
+English:She is a talented singer.
+Hinglish:Woh ek kabil gaayika hai.
+
+English:They are coming tomorrow.
+Hinglish:Woh kal aa rahe hain.
+
+English:Please pass me the salt.
+Hinglish:Kripya mujhe namak de do.
+
+English:Where is the nearest ATM?
+Hinglish:Najdiki ATM kahan hai?
+
+English:She speaks Hindi fluently.
+Hinglish:Woh Hindi achhe se bolti hai.
+
+English:Do you like watching movies?
+Hinglish:Kya tumhe movies dekhna pasand hai?
+
+English:I need to buy some groceries.
+Hinglish:Mujhe kuch kirana saman khareedna hai.
+
+English:Could you call me later?
+Hinglish:Kya tum baad mein mujhe call kar sakte ho?
+
+English:He plays the guitar very well.
+Hinglish:Woh guitar bahut achha bajata hai.
+
+English:The weather is beautiful today.
+Hinglish:Aaj ka mausam bahut khubsurat hai.
+
+English:What are you doing this weekend?
+Hinglish:Is hafte keend kya kar rahe ho?
+
+English:She will arrive by train.
+Hinglish:Woh train se aaegi.
+
+English:Can you help me with my homework?
+Hinglish:Kya tum meri homework mein madad kar sakte ho?
+
+English:Let's go for a walk in the park.
+Hinglish:Chalo park mein walk par chalte hain.
+
+English:I want to learn a new language.
+Hinglish:Main ek nayi bhasha seekhna chahta hoon.
+
+English:Are you attending the party tonight?
+Hinglish:Kya tum aaj raat party mein jaa rahe ho?
+
+English:This book is very interesting.
+Hinglish:Yeh kitab bahut dilchasp hai.
+
+English:Are you coming to the party?
+Hinglish:Kya tum party mein aa rahe ho?
+
+English:He enjoys playing football.
+Hinglish:Usse football khelna achha lagta hai.
+
+English:What is your favorite color?
+Hinglish:Tumhara pasandeeda rang kya hai?
+
+English:She is a doctor at the local hospital.
+Hinglish:Woh sthaaniya hospital mein doctor hai.
+
+English:I'm feeling a bit tired today.
+Hinglish:Aaj main thoda thaka hua mehsoos kar raha hoon.
+
+English:Where did you find that interesting book?
+Hinglish:Tumne woh dilchasp kitab kahan se mili?
+
+English:Let's have dinner together.
+Hinglish:Chalo saath mein dinner karte hain.
+
+English:Do you know how to swim?
+Hinglish:Kya tumhe tairna aata hai?
+
+English:She's very good at playing the piano.
+Hinglish:Woh piano bajane mein bahut achhi hai.
+
+English:Could you please repeat that?
+Hinglish:Kya aap woh dobara keh sakte hain?
+
+English:I want to become a software engineer.
+Hinglish:Main ek software engineer banna chahta hoon.
+
+English:What time does the movie start?
+Hinglish:Movie kitne baje shuru hoti hai?
+
+English:She speaks multiple languages fluently.
+Hinglish:Woh kai bhashao mein achhe se bolti hai.
+
+English:I need to go to the grocery store.
+Hinglish:Mujhe kirana store jaana hai.
+
+English:Do you have any plans for the weekend?
+Hinglish:Tumhare paas weekend ke liye koi plan hai?
+
+English:He will arrive in an hour.
+Hinglish:Woh ek ghante mein aa jayega.
+
+English:Are you going to the concert?
+Hinglish:Kya tum concert mein ja rahe ho?
+
+English:Let me know if you need any help.
+Hinglish:Mujhe batao agar tumhe koi madad chahiye.
+
+English:She wants to learn how to dance.
+Hinglish:Usse dance karna seekhna hai.
+
+English:Can you help me with my computer issues?
+Hinglish:Kya tum meri computer samasya mein madad kar sakte ho?
+
+English:He loves to travel to new places.
+Hinglish:Usse naye jagahon par ghoomna bahut pasand hai.
+
+English:She is good at playing tennis.
+Hinglish:Woh tennis khelne mein achhi hai.
+
+English:What are you studying at college?
+Hinglish:Tum college mein kya padh rahe ho?
+
+English:Do you like to cook?
+Hinglish:Kya tumhe khana pakana pasand hai?
+
+English:He's going to the gym in the evening.
+Hinglish:Woh shaam ko gym ja raha hai.
+
+English:Let's go for a walk by the river.
+Hinglish:Chalo nadi ke kinare walk par chalte hain.
+
+English:She wants to buy a new dress.
+Hinglish:Usse naya dress kharidna hai.
+
+English:I am learning to play the guitar.
+Hinglish:Main guitar bajana seekh raha hoon.
+
+English:Are you ready for the exam?
+Hinglish:Kya tum exam ke liye taiyar ho?
+
+English:What's your favorite food?
+Hinglish:Tumhara pasandeeda khana kya hai?
+
+English:I need to make a phone call.
+Hinglish:Mujhe ek phone call karni hai.
+
+English:She is very good at math.
+Hinglish:Woh ganit mein bahut achhi hai.
+
+English:Are you going to the meeting tomorrow?
+Hinglish:Kya tum kal meeting mein jaa rahe ho?
+
+English:Do you know how to fix this?
+Hinglish:Kya tumhe isko theek karna aata hai?
+
+English:I am going to the library to study.
+Hinglish:Main padhai karne ke liye library ja raha hoon.
+
+English:She is going to travel abroad next month.
+Hinglish:Woh agle mahine videsh ghoomne jaa rahi hai.
+
+English:Let's go shopping this weekend.
+Hinglish:Chalo is weekend shopping par chalte hain.
+
+English:He is busy with work these days.
+Hinglish:Woh in dino kaam mein vyast hai.
+
+English:Do you want to go for a walk?
+Hinglish:Kya tum walk par jaana chahte ho?
+
+English:I am thinking of learning a musical instrument.
+Hinglish:Main ek sangeet vadya seekhne ki soch raha hoon.
+
+English:She is excellent at playing the violin.
+Hinglish:Woh violin bajane mein uttam hai.
+
+English:What time does the store close?
+Hinglish:Dukan kitne baje band hoti hai?
+
+English:Do you know how to ride a bike?
+Hinglish:Kya tumhe bike chalana aata hai?
+
+English:Are you attending the event this evening?
+Hinglish:Kya tum aaj shaam event mein jaa rahe ho?
+
+English:Let's meet for lunch tomorrow.
+Hinglish:Chalo kal lunch ke liye milte hain.
+
+English:She wants to learn a new dance style.
+Hinglish:Usse ek naya dance style seekhna hai.
+
+English:Do you have plans for the holiday?
+Hinglish:Tumhare paas chutti ke liye koi plan hai?
+
+English:Are you good at playing chess?
+Hinglish:Kya tum chess khelne mein achhe ho?
+
+English:She's thinking of starting a new business.
+Hinglish:Woh ek naya business shuru karne ki soch rahi hai.
+
+English:What time does the train arrive?
+Hinglish:Train kitne baje aati hai?
+
+English:Do you like to paint?
+Hinglish:Kya tumhe painting karna pasand hai?
+
+English:He enjoys reading novels in his free time.
+Hinglish:Usse free time mein novels padhna achha lagta hai.
+
+English:Can you teach me how to cook?
+Hinglish:Kya tum mujhe khana pakana sikh sakte ho?
+
+English:Are you going to the game tomorrow?
+Hinglish:Kya tum kal game mein jaa rahe ho?
+
+English:Let's go for a hike this weekend.
+Hinglish:Chalo is weekend hike par chalte hain.
+
+English:Do you want to learn a new language?
+Hinglish:Kya tumhe ek nayi bhasha seekhni hai?
+
+English:She is planning to visit her parents next month.
+Hinglish:Woh agle mahine apne maa-baap ko milne ja rahi hai.
+
+English:I'm planning to learn how to dance.
+Hinglish:Main dance karna seekhne ka plan kar raha hoon.
+
+English:What's your favorite subject in school?
+Hinglish:Tumhara pasandeeda subject school mein kya hai?
+
+English:He loves to take photographs.
+Hinglish:Usse tasweer lena pasand hai.
+
+English:Do you know how to bake a cake?
+Hinglish:Kya tumhe cake banana aata hai?
+
+English:She is good at playing badminton.
+Hinglish:Woh badminton khelne mein achhi hai.
+
+English:Are you interested in learning new things?
+Hinglish:Kya tumhe naye cheezon ko seekhne mein dilchaspi hai?
+
+English:He is studying for the upcoming exam.
+Hinglish:Woh ane wale exam ke liye padhai kar raha hai.
+
+English:What are your plans for the weekend?
+Hinglish:Tumhare weekend ke kya plan hain?
+
+English:Do you know how to fix a computer?
+Hinglish:Kya tumhe computer theek karna aata hai?
+
+English:She is going to visit her friend next week.
+Hinglish:Woh agle hafte apne dost ko milne jaa rahi hai.
+
+English:Let's have a picnic this Sunday.
+Hinglish:Chalo is Sunday picnic par chalte hain.
+
+English:Do you like to write stories?
+Hinglish:Kya tumhe kahaniyan likhna pasand hai?
+
+English:She is planning to learn a new instrument.
+Hinglish:Woh ek naya vadya sikhne ka plan kar rahi hai.
+
+English:I am thinking of starting a new business.
+Hinglish:Main ek naya business shuru karne ki soch raha hoon.
+
+English:What time does the bus leave?
+Hinglish:Bus kab chali jati hai?
+
+English:Do you want to go to the park?
+Hinglish:Kya tum park jaana chahte ho?
+
+English:He's planning to go hiking this weekend.
+Hinglish:Woh is weekend hiking par jaane ka plan kar raha hai.
+
+English:She is very good at playing basketball.
+Hinglish:Woh basketball khelne mein bahut achhi hai.
+
+English:Do you know how to bake cookies?
+Hinglish:Kya tumhe cookies banana aata hai?
+
+English:I'm going to the library to read.
+Hinglish:Main padhne ke liye library ja raha hoon.
+
+English:Are you going to the party tomorrow?
+Hinglish:Kya tum kal party mein ja rahe ho?
+
+English:Let's go for a walk in the evening.
+Hinglish:Chalo shaam ko walk par chalte hain.
+
+English:Do you want to learn a musical instrument?
+Hinglish:Kya tumhe ek sangeet vadya seekhna hai?
+
+English:He is thinking of starting a new job.
+Hinglish:Woh ek naya kaam shuru karne ki soch raha hai.
+
+English:What's your favorite hobby?
+Hinglish:Tumhara pasandeeda shauk kya hai?
+
+English:She wants to become a scientist.
+Hinglish:Usse vaigyanik banna hai.
+
+English:I want to learn how to paint.
+Hinglish:Main painting karna seekhna chahta hoon.
+
+English:Are you going to the mall?
+Hinglish:Kya tum mall ja rahe ho?
+
+English:Let's have dinner at a nice restaurant.
+Hinglish:Chalo acche restaurant mein dinner karte hain.
+
+English:She is going to start a new job.
+Hinglish:Woh ek naya kaam shuru karne ja rahi hai.
+
+English:What time do you wake up in the morning?
+Hinglish:Tum subah kitne baje uthte ho?
+
+English:He loves to read books.
+Hinglish:Usse kitab padhna bahut pasand hai.
+
+English:Do you know how to ride a horse?
+Hinglish:Kya tumhe ghoda chalana aata hai?
+
+English:She enjoys listening to music.
+Hinglish:Woh music sunne mein maza leti hai.
+
+English:What's your favorite movie genre?
+Hinglish:Tumhara pasandeeda movie genre kya hai?
+
+English:Are you going to the market?
+Hinglish:Kya tum market ja rahe ho?
+
+English:I need to visit the dentist.
+Hinglish:Mujhe dentist ke paas jaana hai.
+
+English:Do you want to learn a new skill?
+Hinglish:Kya tumhe ek nayi skill seekhni hai?
+
+English:She is planning to travel to Europe.
+Hinglish:Woh Europe ghoomne ka plan kar rahi hai.
+
+English:What do you like to do in your free time?
+Hinglish:Tumhe free time mein kya pasand hai karna?
+
+English:He is going to attend a conference next month.
+Hinglish:Woh agle mahine ek conference mein jaa raha hai.
+
+English:Do you like spicy food?
+Hinglish:Kya tumhe teekha khana pasand hai?
+
+English:She's going to learn how to dance.
+Hinglish:Woh dance karna seekhne jaa rahi hai.
+
+English:Are you going to the gym today?
+Hinglish:Kya tum aaj gym ja rahe ho?
+
+English:He wants to buy a new car.
+Hinglish:Usse naya car kharidna hai.
+
+English:I need to fix my bicycle.
+Hinglish:Mujhe apni cycle theek karni hai.
+
+English:Do you know how to play the piano?
+Hinglish:Kya tumhe piano bajana aata hai?
+
+English:She is good at speaking French.
+Hinglish:Woh French bolne mein achhi hai.
+
+English:Are you planning to travel this summer?
+Hinglish:Kya tum is summer mein ghoomne ka plan kar rahe ho?
+
+English:He is thinking of starting a new project.
+Hinglish:Woh ek naya project shuru karne ki soch raha hai.
+
+English:Do you like to go swimming?
+Hinglish:Kya tumhe swimming jaana pasand hai?
+
+English:She is going to buy a new phone.
+Hinglish:Woh ek naya phone kharidne jaa rahi hai.
+
+English:What time does the class start?
+Hinglish:Class kitne baje shuru hoti hai?
+
+English:He enjoys cooking delicious meals.
+Hinglish:Usse lazeez khana pakana pasand hai.
+
+English:She is very good at playing cricket.
+Hinglish:Woh cricket khelne mein bahut achhi hai.
+
+English:Are you going to watch the football match?
+Hinglish:Kya tum football match dekhne ja rahe ho?
+
+English:I am going to learn how to swim.
+Hinglish:Main tairna seekhne ja raha hoon.
+
+English:Do you know how to use a computer?
+Hinglish:Kya tumhe computer use karna aata hai?
+
+English:She is going to visit her relatives next month.
+Hinglish:Woh agle mahine apne rishtedaaroon ko milne jaa rahi hai.
+
+English:What do you enjoy doing in your leisure time?
+Hinglish:Tumhe fursat ke waqt mein kya pasand hai karna?
+
+English:He loves to travel to new places.
+Hinglish:Usse naye jagahon par ghoomna pasand hai.
+
+English:Do you like to go hiking?
+Hinglish:Kya tumhe hiking jaana pasand hai?
+
+English:She is planning to attend the concert.
+Hinglish:Woh concert mein jaane ka plan kar rahi hai.
+
+English:I need to buy some new clothes.
+Hinglish:Mujhe kuch naye kapde kharidne hain.
+
+English:What time do you usually go to bed?
+Hinglish:Tum generally kitne baje sote ho?
+
+English:He is good at playing the guitar.
+Hinglish:Usse guitar bajana achha lagta hai.
+
+English:Are you planning to visit the museum?
+Hinglish:Kya tum museum ghoomne ka plan kar rahe ho?
+
+English:I want to learn a new instrument.
+Hinglish:Main ek naya vadya seekhna chahta hoon.
+
+English:She is good at playing basketball.
+Hinglish:Woh basketball khelne mein achhi hai.
+
+English:Do you know how to draw?
+Hinglish:Kya tumhe drawing karna aata hai?
+
+English:He is going to start a new business.
+Hinglish:Woh ek naya business shuru karne ja raha hai.
+
+English:What time does your work start?
+Hinglish:Tumhara kaam kitne baje shuru hota hai?
+
+English:Do you want to visit the park?
+Hinglish:Kya tum park ghoomne jaana chahte ho?
+
+English:I'm thinking of buying a new laptop.
+Hinglish:Main ek naya laptop kharidne ki soch raha hoon.
+
+English:She is planning to take dance lessons.
+Hinglish:Woh dance lesson lena chahti hai.
+
+English:What time does your class finish?
+Hinglish:Tumhara class kitne baje khatam hota hai?
+
+English:Do you like to play video games?
+Hinglish:Kya tumhe video games khelna pasand hai?
+
+English:He's planning to go on a road trip.
+Hinglish:Woh ek road trip par jaane ka plan kar raha hai.
+
+English:She is good at playing tennis.
+Hinglish:Woh tennis khelne mein achhi hai.
+
+English:What's your favorite sport to play?
+Hinglish:Tumhara pasandeeda khel khelne ka kya hai?
+
+English:Do you want to learn a new dance style?
+Hinglish:Kya tumhe ek naya dance style seekhna hai?
+
+English:I need to find a new apartment.
+Hinglish:Mujhe ek naya apartment dhoondhna hai.
+
+English:Are you going to take a trip this weekend?
+Hinglish:Kya tum is weekend ghoomne ja rahe ho?
+
+English:I want to learn a new language.
+Hinglish:Main ek nayi bhasha seekhna chahta hoon.
+
+English:He is planning to write a book.
+Hinglish:Woh ek kitaab likhne ka plan kar raha hai.
+
+English:What's your favorite hobby?
+Hinglish:Tumhara pasandeeda shauk kya hai?
+
+English:She wants to become a pilot.
+Hinglish:Usse pilot banna hai.
+
+English:I want to learn how to cook Indian food.
+Hinglish:Main Indian khana banana seekhna chahta hoon.
+
+English:Are you going to the party tonight?
+Hinglish:Kya tum aaj raat party mein jaa rahe ho?
+
+English:He is planning to take a trip next month.
+Hinglish:Woh agle mahine ghoomne ka plan kar raha hai.
+
+English:What time does the movie end?
+Hinglish:Movie kitne baje khatam hoti hai?
+
+English:Do you like to go shopping?
+Hinglish:Kya tumhe shopping jaana pasand hai?
+
+English:She is good at painting.
+Hinglish:Woh painting karne mein achhi hai.
+
+English:What time do you finish work?
+Hinglish:Tumhara kaam kitne baje khatam hota hai?
+
+English:He's planning to start a new project.
+Hinglish:Woh ek naya project shuru karne ka plan kar raha hai.
+
+English:Are you planning to visit your grandparents?
+Hinglish:Kya tum apne dada-dadi ko milne ka plan kar rahe ho?
+
+English:She is going to learn a new skill.
+Hinglish:Woh ek nayi skill sikhne ja rahi hai.
+
+English:What time does the store close?
+Hinglish:Dukaan kitne baje band hoti hai?
+
+English:He loves to cook Italian food.
+Hinglish:Usse Italian khana pakana bahut pasand hai.
+
+English:Do you like to go for a run?
+Hinglish:Kya tum daudne jaana pasand karte ho?
+
+English:She is going to buy a new dress.
+Hinglish:Woh ek naya dress kharidne jaa rahi hai.
+
+English:What time does your class begin?
+Hinglish:Tumhara class kitne baje shuru hota hai?
+
+English:I am planning to learn how to dance.
+Hinglish:Main dance karna seekhne ka plan kar raha hoon.
+
+English:He is good at playing cricket.
+Hinglish:Usse cricket khelne mein achha lagta hai.
+
+English:What time do you usually finish your work?
+Hinglish:Tum generally apna kaam kitne baje khatam karte ho?
+
+English:Do you like to watch movies?
+Hinglish:Kya tumhe movies dekhna pasand hai?
+
+English:She is planning to visit the museum.
+Hinglish:Woh museum ghoomne ka plan kar rahi hai.
+
+English:He's going to start a new job.
+Hinglish:Woh ek naya kaam shuru karne ja raha hai.
+
+English:Are you planning to go for a picnic?
+Hinglish:Kya tum picnic par jaane ka plan kar rahe ho?
+
+English:She is good at playing the violin.
+Hinglish:Woh violin bajane mein achhi hai.
+
+English:I need to visit the doctor tomorrow.
+Hinglish:Mujhe kal doctor ke paas jaana hai.
+
+English:What time does your shift end?
+Hinglish:Tumhara shift kitne baje khatam hoti hai?
+
+English:Do you like to go for a walk in the park?
+Hinglish:Kya tumhe park mein walk jaana pasand hai?
+
+English:I want to learn how to play the flute.
+Hinglish:Main bansuri bajana seekhna chahta hoon.
+
+English:He loves to go camping in the mountains.
+Hinglish:Usse pahaadon mein camping karna bahut pasand hai.
+
+English:What time do you usually have lunch?
+Hinglish:Tum generally lunch kitne baje karte ho?
+
+English:She is going to start a new business venture.
+Hinglish:Woh ek naya business venture shuru karne ja rahi hai.
+
+English:Do you know how to speak Spanish?
+Hinglish:Kya tumhe Spanish bolna aata hai?
+
+English:I need to buy some new shoes.
+Hinglish:Mujhe kuch naye jootey kharidne hain.
+
+English:Do you like to watch documentaries?
+Hinglish:Kya tumhe documentaries dekhna pasand hai?
+
+English:She is planning to take up painting classes.
+Hinglish:Woh painting classes join karne ka plan kar rahi hai.
+
+English:What time does the meeting start?
+Hinglish:Meeting kitne baje shuru hoti hai?
+
+English:I am going to visit my relatives this weekend.
+Hinglish:Main is weekend apne rishtedaaroon ko milne jaa raha hoon.
+
+English:He is very good at playing the drums.
+Hinglish:Usse drum bajana bahut achha lagta hai.
+
+English:Do you want to learn how to sew?
+Hinglish:Kya tumhe silai karna seekhna hai?
+
+English:She enjoys cooking traditional dishes.
+Hinglish:Woh paramparaik khana pakana mein maza leti hai.
+
+English:What's your favorite type of music?
+Hinglish:Tumhara pasandeeda music kaunsa hai?
+
+English:He's planning to take a trip next month.
+Hinglish:Woh agle mahine ghoomne ka plan kar raha hai.
+
+English:Do you like to go for a bike ride?
+Hinglish:Kya tumhe bike ride jaana pasand hai?
+
+English:She is good at playing the saxophone.
+Hinglish:Woh saxophone bajane mein achhi hai.
+
+English:I need to fix my computer.
+Hinglish:Mujhe apna computer theek karna hai.
+
+English:What time do you finish your work?
+Hinglish:Tumhara kaam kitne baje khatam hota hai?
+
+English:He loves to go trekking in the hills.
+Hinglish:Usse pahaadon mein trekking karna bahut pasand hai.
+
+English:Do you like to watch animated movies?
+Hinglish:Kya tumhe animated movies dekhna pasand hai?
+
+English:I want to learn how to do yoga.
+Hinglish:Main yoga karna seekhna chahta hoon.
+
+English:She is planning to start her own blog.
+Hinglish:Woh apna khud ka blog shuru karne ka plan kar rahi hai.
+
+English:What time does your work usually end?
+Hinglish:Tumhara kaam generally kitne baje khatam hota hai?
+
+English:He is thinking of taking a photography course.
+Hinglish:Usse photography course join karne ki soch hai.
+
+English:Do you like to go hiking in the forest?
+Hinglish:Kya tumhe jungle mein hike jaana pasand hai?
+
+English:I want to learn how to dance salsa.
+Hinglish:Main salsa dance karna seekhna chahta hoon.
+
+English:She is good at painting landscapes.
+Hinglish:Woh landscapes paint karne mein achhi hai.
+
+English:What's your favorite TV show?
+Hinglish:Tumhara pasandeeda TV show kaunsa hai?
+
+English:I need to learn how to fix my bicycle.
+Hinglish:Mujhe apni cycle theek karna seekhna hai.
+
+English:Are you planning to attend the concert?
+Hinglish:Kya tum concert mein jaane ka plan kar rahe ho?
+
+English:He is going to take up a language course.
+Hinglish:Woh ek bhasha course join karne ja raha hai.
+
+English:Do you like to go swimming in the lake?
+Hinglish:Kya tumhe lake mein tairna pasand hai?
+
+English:She is planning to write a novel.
+Hinglish:Woh ek novel likhne ka plan kar rahi hai.
+
+English:What time do you finish your shift?
+Hinglish:Tumhara shift kitne baje khatam hota hai?
+
+English:He loves to go on a bike ride.
+Hinglish:Usse bike ride jaana bahut pasand hai.
+
+English:Do you like to play chess?
+Hinglish:Kya tumhe chess khelna pasand hai?
+
+English:She is going to learn how to sew.
+Hinglish:Woh silai karna seekhne ja rahi hai.
+
+English:What time do you usually have dinner?
+Hinglish:Tum generally dinner kitne baje karte ho?
+
+English:He is good at making desserts.
+Hinglish:Usse mithai banana achha lagta hai.
+
+English:Do you like to watch comedy shows?
+Hinglish:Kya tumhe comedy shows dekhna pasand hai?
+
+English:She is planning to start a YouTube channel.
+Hinglish:Woh ek YouTube channel shuru karne ka plan kar rahi hai.
+
+English:What time do you usually go to sleep?
+Hinglish:Tum generally kitne baje sote ho?
+
+English:I need to fix my laptop.
+Hinglish:Mujhe apna laptop theek karna hai.
+
+English:She loves to read romantic novels.
+Hinglish:Usse romantic novels padhna bahut pasand hai.
+
+English:Do you like to go for a walk on the beach?
+Hinglish:Kya tumhe beach par walk jaana pasand hai?
+
+English:He is planning to start learning a martial art.
+Hinglish:Woh martial art seekhna shuru karne ka plan kar raha hai.
+
+English:What time do you start work in the morning?
+Hinglish:Tum subah kaam kitne baje shuru karte ho?
+
+English:He enjoys playing board games.
+Hinglish:Usse board games khelna achha lagta hai.
+
+English:Do you like to watch science fiction movies?
+Hinglish:Kya tumhe science fiction movies dekhna pasand hai?
+
+English:I want to learn how to sing classical music.
+Hinglish:Main classical music gaana seekhna chahta hoon.
+
+English:She is planning to start a fitness program.
+Hinglish:Woh fitness program shuru karne ka plan kar rahi hai.
+
+English:What time do you usually go for a run?
+Hinglish:Tum generally daudne kab jaate ho?
+
+English:He loves to watch wildlife documentaries.
+Hinglish:Usse wildlife documentaries dekhna bahut pasand hai.
+
+English:Do you like to cook Italian cuisine?
+Hinglish:Kya tumhe Italian cuisine pakana pasand hai?
+
+English:She is planning to start a dance class.
+Hinglish:Woh dance class shuru karne ka plan kar rahi hai.
+
+English:What time do you generally finish work?
+Hinglish:Tum generally kaam kitne baje khatam karte ho?
+
+English:He is planning to take up mountain climbing.
+Hinglish:Woh pahaad chadhne ka plan kar raha hai.
+
+English:Do you like to go for a walk in the park?
+Hinglish:Kya tumhe park mein walk jaana pasand hai?
+
+English:She is planning to start a fashion blog.
+Hinglish:Woh fashion blog shuru karne ka plan kar rahi hai.
+
+English:What time does your shift usually start?
+Hinglish:Tumhara shift generally kitne baje shuru hota hai?
+
+English:He loves to go mountain biking.
+Hinglish:Usse pahaad par bike ride jaana bahut pasand hai.
+
+English:Do you like to watch travel documentaries?
+Hinglish:Kya tumhe travel documentaries dekhna pasand hai?
+
+English:She is planning to start a book club.
+Hinglish:Woh book club shuru karne ka plan kar rahi hai.
+
+English:What time do you generally go to work in the morning?
+Hinglish:Tum generally subah kaam kitne baje jaate ho?
+
+English:I need to fix my phone.
+Hinglish:Mujhe apna phone theek karna hai.
+
+English:She loves to go for a hike in the forest.
+Hinglish:Usse jungle mein hike jaana bahut pasand hai.
+
+English:Do you like to watch action movies?
+Hinglish:Kya tumhe action movies dekhna pasand hai?
+
+English:I want to learn how to cook Chinese food.
+Hinglish:Main Chinese khana banana seekhna chahta hoon.
+
+English:She is planning to take a pottery class.
+Hinglish:Woh pottery class join karne ka plan kar rahi hai.
+
+English:What time do you usually finish your shift?
+Hinglish:Tumhara shift generally kitne baje khatam hota hai?
+
+English:He loves to watch historical documentaries.
+Hinglish:Usse itihaas se related documentaries dekhna bahut pasand hai.
+
+English:Do you like to read self-help books?
+Hinglish:Kya tumhe self-help books padhna pasand hai?
+
+English:She is planning to start a photography blog.
+Hinglish:Woh photography blog shuru karne ka plan kar rahi hai.
+
+English:What time do you generally go to work?
+Hinglish:Tum generally kaam kitne baje jaate ho?
+
+English:I want to learn how to play the ukulele.
+Hinglish:Main ukulele bajana seekhna chahta hoon.
+
+English:He is planning to start a language exchange program.
+Hinglish:Woh bhasha exchange program shuru karne ka plan kar raha hai.
+
+English:Do you like to watch sports documentaries?
+Hinglish:Kya tumhe sports documentaries dekhna pasand hai?
+
+English:She is planning to take a salsa dance class.
+Hinglish:Woh salsa dance class join karne ka plan kar rahi hai.
+
+English:What time do you usually go to work in the morning?
+Hinglish:Tum generally subah kaam kitne baje jaate ho?
+
+English:I want to learn how to do pottery.
+Hinglish:Main mitti ka kaam karna seekhna chahta hoon.
+
+English:He loves to watch astronomy documentaries.
+Hinglish:Usse jyotish se related documentaries dekhna bahut pasand hai.
+
+English:What time do you usually have breakfast?
+Hinglish:Tum generally breakfast kitne baje karte ho?
+
+English:She is going to start a music production course.
+Hinglish:Woh music production course shuru karne ja rahi hai.
+
+English:Do you know how to knit a sweater?
+Hinglish:Kya tumhe sweater bunai karni aati hai?
+
+English:I need to visit the optician for an eye check-up.
+Hinglish:Mujhe optician ke paas ankh ka check-up karwana hai.
+
+English:Do you like to watch cooking shows?
+Hinglish:Kya tumhe cooking shows dekhna pasand hai?
+
+English:She is planning to start an online jewelry store.
+Hinglish:Woh online jewelry store shuru karne ka plan kar rahi hai.
+
+English:What time does your workout session start?
+Hinglish:Tumhara workout session kitne baje shuru hota hai?
+
+English:I want to learn how to do woodworking.
+Hinglish:Main lakdi ka kaam karna seekhna chahta hoon.
+
+English:He enjoys watching wildlife photography tutorials.
+Hinglish:Usse wildlife photography tutorials dekhna achha lagta hai.
+
+English:What's your favorite cuisine to cook?
+Hinglish:Tumhara pasandeeda khana pakane ka kaunsa hai?
+
+English:She is going to start an interior design course.
+Hinglish:Woh interior design course shuru karne ja rahi hai.
+
+English:Do you know how to make paper airplanes?
+Hinglish:Kya tumhe kagaz ke hawai jahaz banane aate hain?
+
+English:I need to buy a new laptop charger.
+Hinglish:Mujhe ek naya laptop charger kharidna hai.
+
+English:He loves to watch fashion design tutorials.
+Hinglish:Usse fashion design tutorials dekhna bahut pasand hai.
+
+English:Do you like to watch science documentaries?
+Hinglish:Kya tumhe science se related documentaries dekhna pasand hai?
+
+English:She is planning to start a blog about travel experiences.
+Hinglish:Woh travel experiences ke baare mein blog shuru karne ka plan kar rahi hai.
+
+English:What time does your fitness class end?
+Hinglish:Tumhara fitness class kitne baje khatam hota hai?
+
+English:I want to learn how to do calligraphy.
+Hinglish:Main calligraphy karna seekhna chahta hoon.
+
+English:He enjoys watching gardening tutorials.
+Hinglish:Usse gardening tutorials dekhna achha lagta hai.
+
+English:Do you like to watch art documentaries?
+Hinglish:Kya tumhe kala se related documentaries dekhna pasand hai?
+
+English:I need to buy art supplies for painting.
+Hinglish:Mujhe painting ke liye art supplies kharidne hain.
+
+English:She is planning to start an online cooking show.
+Hinglish:Woh online cooking show shuru karne ka plan kar rahi hai.
+
+English:What time do you usually finish your dance class?
+Hinglish:Tumhara dance class generally kitne baje khatam hota hai?
+
+English:I want to learn how to do origami.
+Hinglish:Main origami karna seekhna chahta hoon.
+
+English:He loves to watch documentaries about technology.
+Hinglish:Usse technology se related documentaries dekhna bahut pasand hai.
+
+English:Do you like to watch musical concerts?
+Hinglish:Kya tumhe musical concerts dekhna pasand hai?
+
+English:She is planning to start a podcast on motivational speeches.
+Hinglish:Woh motivational speeches par podcast shuru karne ka plan kar rahi hai.
+
+English:What time does your painting class start?
+Hinglish:Tumhara painting class kitne baje shuru hota hai?
+
+English:I want to learn how to do embroidery.
+Hinglish:Main embroidery karna seekhna chahta hoon.
+
+English:He enjoys watching documentaries about ancient history.
+Hinglish:Usse purani history se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch singing competitions?
+Hinglish:Kya tumhe gaayeki ke competitions dekhna pasand hai?
+
+English:She is planning to start a fitness vlog.
+Hinglish:Woh fitness vlog shuru karne ka plan kar rahi hai.
+
+English:What time does your gardening session end?
+Hinglish:Tumhara gardening session kitne baje khatam hota hai?
+
+English:I want to learn how to make stained glass art.
+Hinglish:Main stained glass art banana seekhna chahta hoon.
+
+English:He enjoys watching documentaries on architecture.
+Hinglish:Usse architecture se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch comedy stand-up shows?
+Hinglish:Kya tumhe comedy stand-up shows dekhna pasand hai?
+
+English:She is planning to start an online fashion boutique.
+Hinglish:Woh online fashion boutique shuru karne ka plan kar rahi hai.
+
+English:What time does your language class start?
+Hinglish:Tumhara language class kitne baje shuru hota hai?
+
+English:I want to learn how to do metal sculpting.
+Hinglish:Main metal sculpting karna seekhna chahta hoon.
+
+English:He loves to watch documentaries about space exploration.
+Hinglish:Usse space exploration se related documentaries dekhna bahut pasand hai.
+
+English:Do you like to watch wildlife photography tutorials?
+Hinglish:Kya tumhe wildlife photography tutorials dekhna pasand hai?
+
+English:She is planning to start a blog about healthy eating.
+Hinglish:Woh healthy eating ke baare mein blog shuru karne ka plan kar rahi hai.
+
+English:What time does your gym session end?
+Hinglish:Tumhara gym session kitne baje khatam hota hai?
+
+English:I want to learn how to make soap at home.
+Hinglish:Main ghar par soap banane seekhna chahta hoon.
+
+English:He enjoys watching documentaries on world cultures.
+Hinglish:Usse world cultures se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch travel vlogs?
+Hinglish:Kya tumhe travel vlogs dekhna pasand hai?
+
+English:She is planning to start an online music academy.
+Hinglish:Woh online music academy shuru karne ka plan kar rahi hai.
+
+English:What time does your yoga session start?
+Hinglish:Tumhara yoga session kitne baje shuru hota hai?
+
+English:I want to learn how to do wood carving.
+Hinglish:Main lakdi ka kaam karna seekhna chahta hoon.
+
+English:He loves to watch documentaries about ancient civilizations.
+Hinglish:Usse purani sabhyataon se related documentaries dekhna bahut pasand hai.
+
+English:Do you like to watch fashion design tutorials?
+Hinglish:Kya tumhe fashion design tutorials dekhna pasand hai?
+
+English:She is planning to start a blog about DIY crafts.
+Hinglish:Woh DIY crafts ke baare mein blog shuru karne ka plan kar rahi hai.
+
+English:What time does your meditation session end?
+Hinglish:Tumhara meditation session kitne baje khatam hota hai?
+
+English:I want to learn how to do glassblowing.
+Hinglish:Main glassblowing karna seekhna chahta hoon.
+
+English:He loves to watch documentaries about marine life.
+Hinglish:Usse marine life se related documentaries dekhna bahut pasand hai.
+
+English:Do you like to watch musical instrument tutorials?
+Hinglish:Kya tumhe musical instrument tutorials dekhna pasand hai?
+
+English:She is planning to start a podcast about mental health.
+Hinglish:Woh mental health par podcast shuru karne ka plan kar rahi hai.
+
+English:What time does your art class start?
+Hinglish:Tumhara art class kitne baje shuru hota hai?
+
+English:I want to learn how to make pottery on a wheel.
+Hinglish:Main pottery wheel par kaam karna seekhna chahta hoon.
+
+English:He enjoys watching documentaries on wildlife conservation.
+Hinglish:Usse wildlife conservation se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch cooking recipe videos?
+Hinglish:Kya tumhe cooking recipe videos dekhna pasand hai?
+
+English:She is planning to start an online fitness program.
+Hinglish:Woh online fitness program shuru karne ka plan kar rahi hai.
+
+English:What time does your painting session end?
+Hinglish:Tumhara painting session kitne baje khatam hota hai?
+
+English:I want to learn how to make stained glass windows.
+Hinglish:Main stained glass windows banana seekhna chahta hoon.
+
+English:He enjoys watching documentaries on human psychology.
+Hinglish:Usse human psychology se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch musical concerts online?
+Hinglish:Kya tumhe online musical concerts dekhna pasand hai?
+
+English:She is planning to start a blog about healthy living.
+Hinglish:Woh healthy living ke baare mein blog shuru karne ka plan kar rahi hai.
+
+English:What time does your cooking class start?
+Hinglish:Tumhara cooking class kitne baje shuru hota hai?
+
+English:I want to learn how to make jewelry from scratch.
+Hinglish:Main jewelry shuru se banana seekhna chahta hoon.
+
+English:He loves to watch documentaries on astronomy.
+Hinglish:Usse jyotish se related documentaries dekhna bahut pasand hai.
+
+English:Do you like to watch DIY crafting tutorials?
+Hinglish:Kya tumhe DIY crafting tutorials dekhna pasand hai?
+
+English:She is planning to start an online language course.
+Hinglish:Woh online language course shuru karne ka plan kar rahi hai.
+
+English:What time does your dance class usually end?
+Hinglish:Tumhara dance class generally kitne baje khatam hota hai?
+
+English:I want to learn how to do leather crafting.
+Hinglish:Main leather crafting karna seekhna chahta hoon.
+
+English:He enjoys watching documentaries on technology advancements.
+Hinglish:Usse technology advancements se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch painting tutorials?
+Hinglish:Kya tumhe painting tutorials dekhna pasand hai?
+
+English:She is planning to start a podcast about literature.
+Hinglish:Woh literature par podcast shuru karne ka plan kar rahi hai.
+
+English:What time does your guitar lesson start?
+Hinglish:Tumhara guitar lesson kitne baje shuru hota hai?
+
+English:I want to learn how to do woodworking with hand tools.
+Hinglish:Main hand tools se woodworking karna seekhna chahta hoon.
+
+English:He loves to watch documentaries on human history.
+Hinglish:Usse human history se related documentaries dekhna bahut pasand hai.
+
+English:Do you like to watch art and craft tutorials?
+Hinglish:Kya tumhe art and craft tutorials dekhna pasand hai?
+
+English:She is planning to start an online course on photography.
+Hinglish:Woh photography ke liye online course shuru karne ka plan kar rahi hai.
+
+English:What time does your online fitness class end?
+Hinglish:Tumhara online fitness class kitne baje khatam hota hai?
+
+English:I want to learn how to do glass etching.
+Hinglish:Main glass etching karna seekhna chahta hoon.
+
+English:He enjoys watching documentaries about ancient civilizations.
+Hinglish:Usse purani sabhyataon se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch technology review videos?
+Hinglish:Kya tumhe technology review videos dekhna pasand hai?
+
+English:She is planning to start a blog about fashion trends.
+Hinglish:Woh fashion trends ke baare mein blog shuru karne ka plan kar rahi hai.
+
+English:What time does your music class start?
+Hinglish:Tumhara music class kitne baje shuru hota hai?
+
+English:I want to learn how to do 3D printing.
+Hinglish:Main 3D printing karna seekhna chahta hoon.
+
+English:He enjoys watching documentaries on natural phenomena.
+Hinglish:Usse prakritik ghatnayon se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch dance performance videos?
+Hinglish:Kya tumhe dance performance videos dekhna pasand hai?
+
+English:She is planning to start an online painting workshop.
+Hinglish:Woh online painting workshop shuru karne ka plan kar rahi hai.
+
+English:What time does your fitness training session end?
+Hinglish:Tumhara fitness training session kitne baje khatam hota hai?
+
+English:I want to learn how to do ceramic pottery.
+Hinglish:Main ceramic pottery karna seekhna chahta hoon.
+
+English:He enjoys watching documentaries on medical advancements.
+Hinglish:Usse medical advancements se related documentaries dekhna achha lagta hai.
+
+English:Do you like to watch DIY home improvement tutorials?
+Hinglish:Kya tumhe DIY home improvement tutorials dekhna pasand hai?
+
+English:She is planning to start a podcast about career advice.
+Hinglish:Woh career advice par podcast shuru karne ka plan kar rahi hai.
+
